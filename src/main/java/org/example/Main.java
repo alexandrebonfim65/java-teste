@@ -1,4 +1,4 @@
-package com.exemplo.javateste;   // use o mesmo package do projeto
+package org.example;   // use o mesmo package do projeto
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
